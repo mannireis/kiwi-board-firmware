@@ -1,37 +1,20 @@
+//[{a:7},"Esc","Q","W","E","R","T",{x:2},"Y","U","I","O","P","Bspc"],
+//["Tab","A","S","D","F","G",{x:2},"H","J","K","L",";","Enter"],
+//[{sm:"cherry",a:5,f2:1},"\nSteno\n\n\n\n\nLayer",{sm:"",a:7},"Z","X","C","V","B",{x:2},"N","M",{a:5,f:3},"\n,\n\n\n\n\n<",{f:3},"\n.\n\n\n\n\n>",{f:3},"\n/\n\n\n\n\n?",{f2:1},"\nNmbrs\n\n\n\n\nLayer"],
+//[{x:3,f:3},"\nCmd\n\n\n\n\nWIn/",{a:7},"Cntrl","Space",{x:2},"Shift",{a:5,f2:1},"\nMouse\n\n\n\n\nLayer",{a:7},""]
+
 {
-    "name": "HID Keyboard",
+    "name": "Kiwi Board",
     "vendorId": "0x4C4B",
     "productId": "0x4643",
     "lighting": "none",
     "matrix": {
         "rows": 4,
-        "cols": 3
+        "cols": 12
     },
     "layouts": {
         "keymap": [
-            [
-                "0,0",
-                "0,1",
-                "0,2"
-            ],
-            [
-                "1,0",
-                "1,1",
-                "1,2"
-            ],
-            [
-                "2,0",
-                "2,1",
-                "2,2"
-            ],
-            [
-                {
-                    "y": -2,
-                    "x": 4
-                },
-                "3,0",
-                "3,2"
-            ]
+
         ]
     }
 }
